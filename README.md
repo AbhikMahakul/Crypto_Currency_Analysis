@@ -4,4 +4,15 @@
 <br>
 <h2> Merge USD/Euro Rates </h2>
 <p><img alt="Image" title="icon" src="https://github.com/AbhikMahakul/Crypto_Currency_Analysis/blob/main/Images/Image%201.png" /></p>
-<p>
+<br>
+<h2> Daily Returns </h2>
+<p><img alt="Image" title="icon" src="https://github.com/AbhikMahakul/Crypto_Currency_Analysis/blob/main/Images/Image%202.png" /></p>
+<br>
+<h2> Rolling 30 Day Pair Correlation </h2>
+<p><img alt="Image" title="icon" src="https://github.com/AbhikMahakul/Crypto_Currency_Analysis/blob/main/Images/Image%203.png" /></p>
+<br>
+<p>When viewing this graph there is a decent amount comovement. We can say this because there are times where all 3 lines overlap, but there are times where the correlation lines are trending in a different direction.</p>
+<br>
+<h2>Rolling 30 Day Standard Deviation</h2>
+<p><img alt="Image" title="icon" src="https://github.com/AbhikMahakul/Crypto_Currency_Analysis/blob/main/Images/Image%204.png" /></p>
+<br>
