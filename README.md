@@ -16,3 +16,4 @@
 <h2>Rolling 30 Day Standard Deviation</h2>
 <p><img alt="Image" title="icon" src="https://github.com/AbhikMahakul/Crypto_Currency_Analysis/blob/main/Images/Image%204.png" /></p>
 <br>
+<p>Of the currencies, bitcoin and ethereum are the most volatile/risky. As for a pattern, there are conspicuous peak and troughs. When spotting patterns that determine the volatility as a function of time, it is difficult to make any assumptions based off this graph. It is likely that there are geopolitical events that could be influencing this. To understand the volatility, we would need to align the peaks and troughs with events at that time. </p>
